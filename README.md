@@ -145,7 +145,7 @@ It provides a foundation for understanding accountability, information sensitivi
 
 **10. Project Files**
 
- https://docs.google.com/spreadsheets/d/1Lnr3PdwUujQ-hTS1oOQwOYQl6hmEZ3uy/edit?usp=drivesdk&ouid=106493667760114050662&rtpof=true&sd=true — Asset inventory, learning guide, and interview notes.
+Asset inventory, learning guide, and interview notes.
 * documentation/learning-notes.md — Additional project notes and lessons learned.
 
 **Prepared by**: Sulaimon Aleem
