@@ -103,6 +103,30 @@ Controls must be verified through appropriate evidence, such as configuration re
 
 For this fictional exercise, controls that have not been established by the scenario are labelled as proposed or unverified.
 
+## Sample of the Asset Inventory
+
+The following illustrates how an organisation's assets can be identified, assigned ownership and classified.
+
+| Asset | Asset Owner | Information Classification | Security Consideration |
+|---|---|---|---|
+| Company laptops | IT Manager | Internal | Device protection and encryption |
+| Corporate email | IT Manager | Confidential | MFA and account security |
+| Customer database | Operations Manager | Restricted | Access control and data protection |
+| Cloud storage | IT Manager | Confidential | Sharing permissions and encryption |
+| Company website | Marketing Manager | Public | Website security and availability |
+| Accounting application | Finance Manager | Confidential | Access restrictions and financial data protection |
+| Shared administrator account | IT Manager | Restricted | Privileged access monitoring and accountability |
+
+### What This Project Demonstrates
+
+- Asset identification and documentation.
+- Asset ownership assignment.
+- Information classification.
+- Identification of security considerations.
+- Application of GRC principles to asset management.
+
+**Full project:** See the Asset Inventory Excel workbook in this repository.
+
 **6. Framework Mapping**
 
 The inventory uses indicative references to NIST CSF 2.0, including:
