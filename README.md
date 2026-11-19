@@ -130,13 +130,22 @@ The following illustrates how an organisation's assets can be identified, assign
 **6. Framework Mapping**
 
 The inventory uses indicative references to NIST CSF 2.0, including:
+## NIST Cybersecurity Framework 2.0 Mapping
 
-* ID.AM — Asset Management: Identifying and managing organizational assets.
-* PR.AA — Identity Management, Authentication, and Access Control: Supporting appropriate access management.
-* PR.DS — Data Security: Supporting the protection of information.
-* DE.CM — Continuous Monitoring: Relevant to monitoring activities involving systems and accounts.
+This project aligns selected asset management activities with the following NIST CSF 2.0 subcategories.
 
-These references help connect the inventory to cybersecurity risk management outcomes. They do not establish that the fictional organization complies with NIST CSF 2.0.
+| Asset Management Activity | NIST CSF 2.0 Subcategory | Subcategory Description |
+|---|---|---|
+| Hardware asset inventory | ID.AM-01 | Inventories of hardware managed by the organisation are maintained. |
+| Software and application inventory | ID.AM-02 | Inventories of software, services and systems managed by the organisation are maintained. |
+| Data inventory | ID.AM-07 | Inventories of data and corresponding metadata are maintained. |
+| Asset lifecycle management | ID.AM-08 | Systems, hardware, software, services and data are managed throughout their life cycles. |
+
+### Mapping Purpose
+
+These subcategories support the identification, documentation and management of organisational assets.
+
+**Note:** This mapping demonstrates alignment with relevant NIST CSF 2.0 outcomes. It does not establish that the fictional organisation has implemented or satisfied these outcomes.
 
 **Framework reference**: https://www.nist.gov/cyberframework
 
